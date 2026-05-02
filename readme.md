@@ -48,7 +48,9 @@ cd RAG-simple
 pip install -r requirements.txt
 ```
 
-### 5. Ejecutar el script desde el terminal
+### 5. crear el archivo .env con la API de OpenAI OPENAI_API_KEY="API KEY"
+
+### 6. Ejecutar el script desde el terminal
 
 ```bash
 python graph.py
